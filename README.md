@@ -47,7 +47,7 @@ v4 (con diseño)
 -concesionario de automoviles(de automoviles)(cochecitospuntos.com)
 -clientes(dni,nombre,apellido,tf,direccion)
 -coche(numBastidor,matricula,año,marca,modelo,color)
--vendedor(,,)
+-vendedor(numVendedor,dni,nombre,ape,tf)
 -venta(,,)
 -recompra(de coche)(por cliente)
 
