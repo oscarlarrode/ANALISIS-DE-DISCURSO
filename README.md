@@ -10,11 +10,11 @@ un coche puede ser recomprado a un cliente.
 
 universo.discursivo.fin
 
- -cliente
- -automovil
- -vendedor
- -venta
- -concesionario
+ - cliente
+ - automovil
+ - vendedor
+ - venta
+ - concesionario
  - ~~dato~~
 # ------------------------------------------------------------
 v2
