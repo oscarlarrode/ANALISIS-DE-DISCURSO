@@ -9,3 +9,10 @@ de los clientes se conoces los datos habituales,tambien los coches ,de los vende
 un coche puede ser recomprado a un cliente.
 
 universo.discursivo.fin
+
+-cliente
+-automovil
+-vendedor
+-venta
+-concesionario
+- ~~dato~~
