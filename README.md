@@ -44,9 +44,9 @@ universo.discursivo.fin
 # ------------------------------------------------------------
 v4 (con diseño)
 
--concesionario de automoviles(de automoviles)
+-concesionario de automoviles(de automoviles)(cochecitospuntos.com)
 -clientes(dni,nombre,apellido,tf,direccion)
--coche(numBastidor)
+-coche(numBastidor,matricula,año,marca,modelo,color)
 -vendedor(,,)
 -venta(,,)
 -recompra(de coche)(por cliente)
