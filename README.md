@@ -49,6 +49,6 @@ v4 (con diseño)
  - coche(numBastidor,matricula,año,marca,modelo,color...)
  - vendedor(numVendedor,dni,nombre,ape,tf)
  - venta(coche,cliente,vendedorimporte,fecha...)
- - recompra(de coche)(por cliente)
+ - recompra(numbastidor,cliente,fecha,importe,vendedor)
 
 
