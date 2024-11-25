@@ -40,7 +40,7 @@ universo.discurso.comienzo
  - venta(,,)
  - recompra(de coche)(por cliente)
 
-universo.discursivo.fin
+universo.discursivo.fin 
 # ------------------------------------------------------------
 v4 (con diseño)
 
